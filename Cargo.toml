@@ -1,0 +1,13 @@
+[package]
+name    = "model-api"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rocket    = "0.5.0-rc.1"
+tempfile  = "*"
+thiserror = "*"
+
+[dependencies.tokio]
+version  = "*"
+features = ["full"]
