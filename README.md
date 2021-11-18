@@ -4,6 +4,8 @@
 
 A proof of concept for a web API that can export 3MF files from a parametric OpenSCAD model. A typical use would be to have a form on a website that allows users to enter the desired parameters, then submit the form to an API endpoint, allowing the user to download the generated 3MF file.
 
+You can see an example of how this can be embedded into a webpage here: https://hanno.braun-odw.eu/notes/spacer/
+
 
 ## Deployment
 
